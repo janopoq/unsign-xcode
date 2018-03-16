@@ -1,7 +1,7 @@
 class Unsign < Formula
   desc "A command line tool to unsign Xcode"
   homepage "https://github.com/phynet/unsign-xcode"
-  url "https://github.com/janopoq/unsign-xcode/raw/master/unsign.tgz"
+  url "https://github.com/janopoq/homebrew-unsign-xcode/raw/master/unsign.tgz"
   sha256 "5e134d6884fe956f5aeb632ff724bbe368534e6a171f258a6855e451f0dfe5a1" 
   version "1.0.0"
   needs :cxx11
